@@ -6,8 +6,8 @@ This tool allows you to generate QR codes from any text or URL.
 ---
 
 ## 📷 Demo Screenshot
-![QR Code Generator Screenshot](screenshot.jpg)(screenshot1.jpg)
-
+![QR Code Generator Screenshot](screenshot.jpg)
+![QR Code Generator Screenshot](screenshot1.jpg)
 ---
 
 ## 🚀 Features
